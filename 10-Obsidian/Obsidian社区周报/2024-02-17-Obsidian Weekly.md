@@ -7,7 +7,7 @@ author: 淡水鱼,PKMer
 type: awesome
 draft: false
 editable: false
-modified: 20240217214507
+modified: 20240422034454
 ---
 
 # Obsidian-Roundup 2024-02-17：从今天开始，写日记吧
@@ -77,7 +77,7 @@ modified: 20240217214507
 
 [Gemini Assistant](https://github.com/eatgrass/obsidian-gemini-assistant) by _eatgrass_
 
-> 在 Obsidian 中使用 [Gemini AI](https://ai.google.dev/)。
+> 在 Obsidian 中使用 [Gemini AI](https://ai.google.dev/)。可以参考 odoo 中的设置。
 
 [Canvas Daily Note](https://github.com/andrewmcgivery/obsidian-canvas-dailynote) by _Andrew McGivery_
 
